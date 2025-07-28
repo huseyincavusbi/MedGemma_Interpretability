@@ -154,5 +154,5 @@ However, the analysis also uncovers key areas for consideration. The model's per
 
 The methods presented in this paper offer a powerful toolkit for developers, researchers, and platforms like ReadyTensor.ai to move beyond surface-level metrics and gain a deeper, more nuanced understanding of the behavior and limitations of specialized AI models.
 
-https://app.readytensor.ai/publications/9WNQsi3lJB0k
+[https://app.readytensor.ai/publications/9WNQsi3lJB0k](https://app.readytensor.ai/publications/white-box-interpretability-and-adversarial-testing-of-the-medgemma-language-model-9WNQsi3lJB0k)
 Jul 28, 2025
