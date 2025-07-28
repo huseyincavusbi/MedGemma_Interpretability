@@ -153,3 +153,6 @@ The suite of interpretability and adversarial tests applied to `medgemma-4b-it` 
 However, the analysis also uncovers key areas for consideration. The model's persona is not immutable, and its internal knowledge appears to be more strongly oriented around treatment associations than causal biology. Most importantly, the failure of causal intervention highlights the distributed and complex nature of knowledge within these models, underscoring the ongoing challenge of making them fully transparent and controllable.
 
 The methods presented in this paper offer a powerful toolkit for developers, researchers, and platforms like ReadyTensor.ai to move beyond surface-level metrics and gain a deeper, more nuanced understanding of the behavior and limitations of specialized AI models.
+
+https://app.readytensor.ai/publications/9WNQsi3lJB0k
+Jul 28, 2025
